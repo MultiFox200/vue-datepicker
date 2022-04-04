@@ -52,7 +52,6 @@
     "dayjs": "1.8.24"
   },
   "peerDependencies": {
-    "core-js": "^2.6.5",
     "vue": "^2.6.10"
   },
   "devDependencies": {
